@@ -1,4 +1,4 @@
-# Website Change Notifier
+## Website Change Notifier
 
 This is a simple C# console application that monitors a specified website for changes. It uses the `HttpClient` class to make HTTP requests to the website and compares the current content of the website with the previous content to detect changes.
 

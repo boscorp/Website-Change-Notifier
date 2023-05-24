@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckWebsite": {
+      "commandName": "Project",
+      "commandLineArgs": "tequiladobleb.com 5000"
+    }
+  }
+}
